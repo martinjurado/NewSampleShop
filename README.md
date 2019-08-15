@@ -1,0 +1,2 @@
+# NewSampleShop
+My Sample Shop
